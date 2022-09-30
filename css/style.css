@@ -168,7 +168,7 @@ first div in the grid  and place it in the grid. */
 }
 
 .about {
-  grid-row-start: 2
+  grid-row-start: 2;
 }
 
 .method {
